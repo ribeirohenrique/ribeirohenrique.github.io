@@ -11112,3 +11112,5 @@ footer.footer .social-link:hover {
 .text-justify {
   text-align: justify;
 }
+
+img { width: auto; height: auto; max-width: 100%; }
